@@ -10,7 +10,6 @@ rootProject.name = "TestFirstLib"
 include ':app'
 include ':messageLib'
 include ':gameLib'
-include ':myfragment'
 include ':fragmentation_core'
 include ':fragmentation_swipeback'
 include ':fragmentation'

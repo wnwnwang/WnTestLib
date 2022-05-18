@@ -16,7 +16,6 @@
             <option value="$PROJECT_DIR$/fragmentation_swipeback" />
             <option value="$PROJECT_DIR$/gameLib" />
             <option value="$PROJECT_DIR$/messageLib" />
-            <option value="$PROJECT_DIR$/myfragment" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
