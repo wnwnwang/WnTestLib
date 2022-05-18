@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "TestFirstLib"
 include ':app'
 include ':messageLib'
+include ':gameLib'
